@@ -19,4 +19,6 @@
 			- Na knowledge-base você terá informações mais detalhadas sobre setup da sua máquina, instalações, ferramentas básicas e também terá informações sobre abstrações usadas e conceitos importantes da arquitetura.
 -
 - ## Repositórios importantes
+	- https://github.com/arqgen/common-services 
+	  id:: ea7cf4fa-f6f3-473f-89df-565c4deb9d38
 	-
