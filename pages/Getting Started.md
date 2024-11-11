@@ -21,5 +21,7 @@
 - ## Repositórios importantes
 	- https://github.com/arqgen/common-services
 	  id:: ea7cf4fa-f6f3-473f-89df-565c4deb9d38
-		- a common é responsável pela comunicação entre front-end e back-end do cliente de forma abstrata
+		- a common é responsável pela comunicação entre front-end e back-end do cliente de forma geral.
+		- [🔗 Documentação API common service](https://d1hmu1tvw4j9e5.cloudfront.net/docs/development/snippets) -> na documentação é possível encontrar um descritivo detalhado para a criação de um tenant ()
+		-
 	-
