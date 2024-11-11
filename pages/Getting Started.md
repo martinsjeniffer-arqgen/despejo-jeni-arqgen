@@ -12,13 +12,14 @@
 		- [🔗 Miro](https://miro.com/app/dashboard)
 		-
 	- Para desenvolvedores
-		- [🔗 Documentação API commons](https://d1hmu1tvw4j9e5.cloudfront.net/docs/development/snippets)
+		- [🔗 Documentação API common service](https://d1hmu1tvw4j9e5.cloudfront.net/docs/development/snippets)
 		- [🔗 Github arqgen](https://github.com/arqgen)
 		- [🔗 AWS access portal](https://d-9067455e9a.awsapps.com/start/#/)
 		- [🔗Github: knowledge-base: Aglomerado de informações para ajudar a navegar a Arqgen](https://github.com/arqgen/knowledge-base/tree/main)
 			- Na knowledge-base você terá informações mais detalhadas sobre setup da sua máquina, instalações, ferramentas básicas e também terá informações sobre abstrações usadas e conceitos importantes da arquitetura.
 -
 - ## Repositórios importantes
-	- https://github.com/arqgen/common-services 
+	- https://github.com/arqgen/common-services
 	  id:: ea7cf4fa-f6f3-473f-89df-565c4deb9d38
+		- a common é responsável pela comunicação entre front-end e back-end do cliente, envo
 	-
