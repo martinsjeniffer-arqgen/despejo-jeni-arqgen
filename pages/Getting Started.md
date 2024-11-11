@@ -19,5 +19,4 @@
 			- Na knowledge-base você terá informações mais detalhadas sobre setup da sua máquina, instalações, ferramentas básicas e também terá informações sobre abstrações usadas e conceitos importantes da arquitetura.
 -
 - ## Repositórios importantes
-  collapsed:: true
 	-
