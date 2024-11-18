@@ -17,6 +17,8 @@
 		- [🔗 AWS access portal](https://d-9067455e9a.awsapps.com/start/#/)
 		- [🔗Github: knowledge-base: Aglomerado de informações para ajudar a navegar a Arqgen](https://github.com/arqgen/knowledge-base/tree/main)
 			- Na knowledge-base você terá informações mais detalhadas sobre setup da sua máquina, instalações, ferramentas básicas e também terá informações sobre abstrações usadas e conceitos importantes da arquitetura.
+		- [Extensão React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US&utm_source=ext_sidebar)
+			- para consultar estado do contexto
 -
 - ## Repositórios importantes
 	- https://github.com/arqgen/common-services
